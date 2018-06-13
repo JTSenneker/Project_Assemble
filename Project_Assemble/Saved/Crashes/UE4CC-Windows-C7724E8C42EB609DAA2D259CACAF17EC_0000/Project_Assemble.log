@@ -1,0 +1,654 @@
+﻿Log file open, 06/13/18 09:35:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Project_Assemble
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(473651851) SRandInit(473651851).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185969
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.430s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am MSI (10.252.10.41:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.13-13.35.50:787][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.13-13.35.50:787][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.13-13.35.50:812][  0]LogInit: Computer: MSI
+[2018.06.13-13.35.50:812][  0]LogInit: User: Andrew
+[2018.06.13-13.35.50:812][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.13-13.35.50:812][  0]LogInit: High frequency timer resolution =2.437497 MHz
+[2018.06.13-13.35.50:812][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.13-13.35.50:812][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.13-13.35.50:812][  0]LogMemory: Process Physical Memory: 273.26 MB used, 273.26 MB peak
+[2018.06.13-13.35.50:812][  0]LogMemory: Process Virtual Memory: 266.11 MB used, 266.11 MB peak
+[2018.06.13-13.35.50:812][  0]LogMemory: Physical Memory: 4184.65 MB used,  3927.39 MB free, 8112.04 MB total
+[2018.06.13-13.35.50:812][  0]LogMemory: Virtual Memory: 4785.04 MB used,  3927.39 MB free, 134217728.00 MB total
+[2018.06.13-13.35.51:018][  0]LogInit: Using OS detected language (en-US).
+[2018.06.13-13.35.51:018][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.13-13.35.51:043][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.13-13.35.51:492][  0]LogStreaming: Display: Took  0.474s to EndInitTextLocalization.
+[2018.06.13-13.35.51:492][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.13-13.35.51:556][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.13-13.35.51:556][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.13-13.35.51:930][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.13-13.35.52:698][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.06.13-13.35.52:698][  0]LogD3D11RHI:       2009/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.13-13.35.52:712][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.13-13.35.52:712][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.13-13.35.52:714][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.13-13.35.52:714][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.13-13.35.52:714][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.13-13.35.52:732][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.13-13.35.52:732][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.06.13-13.35.52:732][  0]LogWindows: EnumDisplayDevices:
+[2018.06.13-13.35.52:732][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.13-13.35.52:732][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.13-13.35.52:732][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.13-13.35.52:732][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.13-13.35.52:732][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.06.13-13.35.52:732][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.13-13.35.52:732][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.13-13.35.52:732][  0]LogRHI: Texture pool is 1406 MB (70% of 2009 MB)
+[2018.06.13-13.35.53:396][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.06.13-13.35.53:396][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.13-13.35.53:396][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.13-13.35.53:442][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.13-13.35.53:443][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../Repos/Project_Assemble/Project_Assemble/Intermediate/Shaders/WorkingDirectory/10376/).
+[2018.06.13-13.35.53:443][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andrew/AppData/Local/Temp/UnrealShaderWorkingDir/C9F25F0F4338C4D43DEEBCA19A67F707/'.
+[2018.06.13-13.35.53:703][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.13-13.35.53:717][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.13-13.35.53:731][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.13-13.35.53:745][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.13-13.35.53:760][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.13-13.35.53:774][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.13-13.35.53:788][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.13-13.35.53:801][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.13-13.35.53:808][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.13-13.35.53:821][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.13-13.35.53:833][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.13-13.35.53:847][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.13-13.35.53:859][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.13-13.35.53:872][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.13-13.35.53:885][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.13-13.35.53:912][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.13-13.35.53:912][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.13-13.35.53:926][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.13-13.35.53:927][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.13-13.35.53:966][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.13-13.35.53:979][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.13-13.35.53:992][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.13-13.35.54:006][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.13-13.35.54:019][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.13-13.35.54:033][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.13-13.35.54:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.13-13.35.54:159][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.13-13.35.54:160][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.13-13.35.54:160][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.13-13.35.54:901][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andrew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Repos/Project_Assemble/Project_Assemble/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Repos/Project_Assemble/Project_Assemble/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.13-13.35.54:983][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.13-13.35.55:000][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.13-13.35.55:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.13-13.35.55:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.13-13.35.55:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.13-13.35.55:024][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.13-13.35.55:025][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.13-13.35.55:025][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-13.35.55:025][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-13.35.55:243][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.06.13-13.35.55:572][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.13-13.35.55:735][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.13-13.35.55:738][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.13-13.35.55:738][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.13-13.35.55:738][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.13-13.35.55:738][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.13-13.35.55:738][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.13-13.35.55:846][  0]LogNetVersion: Project_Assemble , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 342368450)
+[2018.06.13-13.35.56:475][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.197082 seconds
+[2018.06.13-13.35.56:481][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.13-13.35.56:481][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.13-13.35.56:481][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.13-13.35.58:604][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.13-13.35.58:643][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.13-13.35.59:130][  0]SourceControl: Source control is disabled
+[2018.06.13-13.35.59:130][  0]SourceControl: Source control is disabled
+[2018.06.13-13.35.59:157][  0]SourceControl: Source control is disabled
+[2018.06.13-13.35.59:182][  0]SourceControl: Source control is disabled
+[2018.06.13-13.35.59:838][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.13-13.36.00:049][  0]LogOcInput: OculusInput pre-init called
+[2018.06.13-13.36.00:192][  0]LogEngine: Initializing Engine...
+[2018.06.13-13.36.00:192][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.13-13.36.00:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-13.36.00:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-13.36.00:479][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.13-13.36.00:501][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.06.13-13.36.00:761][  0]LogInit: FAudioDevice initialized.
+[2018.06.13-13.36.00:854][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Andrew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-13.36.00:871][  0]LogInit: Texture streaming: Enabled
+[2018.06.13-13.36.00:889][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.13-13.36.00:899][  0]LogInit: Transaction tracking system initialized
+[2018.06.13-13.36.00:921][  0]BlueprintLog: New page: Editor Load
+[2018.06.13-13.36.00:989][  0]LocalizationService: Localization service is disabled
+[2018.06.13-13.36.01:107][  0]LogConsoleResponse: Display: 
+[2018.06.13-13.36.01:355][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.13-13.36.01:355][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.13-13.36.01:355][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.13-13.36.01:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-13.36.01:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-13.36.01:906][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/Project_Assemble/Project_Assemble/Content/' took 0.01s
+[2018.06.13-13.36.01:906][  0]SourceControl: Source control is disabled
+[2018.06.13-13.36.01:906][  0]Cmd: MAP LOAD FILE="../../../../Repos/Project_Assemble/Project_Assemble/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.13-13.36.01:936][  0]LightingResults: New page: Lighting Build
+[2018.06.13-13.36.01:939][  0]MapCheck: New page: Map Check
+[2018.06.13-13.36.01:939][  0]LightingResults: New page: Lighting Build
+[2018.06.13-13.36.02:144][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994d1ab90, Size=20, Default__MultiplayerCamera_C Function /Game/ThirdPersonBP/Blueprints/CameraBP/MultiplayerCamera.MultiplayerCamera_C:ExecuteUbergraph_MultiplayerCamera
+[2018.06.13-13.36.02:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994cc7a40, Size=16, Default__Arena_C Function /Game/ThirdPersonBP/Blueprints/GameModes/Arena.Arena_C:ExecuteUbergraph_Arena
+[2018.06.13-13.36.02:423][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994cfc540, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.13-13.36.02:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e980bcd180, Size=352, Default__ArenaCharacter_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/ArenaCharacter.ArenaCharacter_C:ExecuteUbergraph_ArenaCharacter
+[2018.06.13-13.36.02:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e980bc39e0, Size=216, Default__Projectile_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Projectile.Projectile_C:ExecuteUbergraph_Projectile
+[2018.06.13-13.36.02:922][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e980b33e60, Size=16, Default__Weapon_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.02:939][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994d8ca88, Size=8, Default__ArenaPlayerController_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Controllers/ArenaPlayerController.ArenaPlayerController_C:ExecuteUbergraph_ArenaPlayerController
+[2018.06.13-13.36.02:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e980b317d0, Size=16, Default__W_BurstRifle_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.03:133][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994d1ab90, Size=20
+[2018.06.13-13.36.03:133][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e99445b640, Size=20, Default__MultiplayerCamera_C Function /Engine/Transient.REINST_MultiplayerCamera_C_5:ExecuteUbergraph_MultiplayerCamera
+[2018.06.13-13.36.03:134][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e980bc39e0, Size=216
+[2018.06.13-13.36.03:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9944b7820, Size=216, Default__Projectile_C Function /Engine/Transient.REINST_Projectile_C_6:ExecuteUbergraph_Projectile
+[2018.06.13-13.36.03:134][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994cfc540, Size=64
+[2018.06.13-13.36.03:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9943cd740, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.13-13.36.03:135][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e980b33e60, Size=16
+[2018.06.13-13.36.03:135][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994389aa0, Size=16, Default__Weapon_C Function /Engine/Transient.REINST_Weapon_C_7:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.03:135][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e980b317d0, Size=16
+[2018.06.13-13.36.03:135][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994389a50, Size=16, Default__W_BurstRifle_C Function /Engine/Transient.REINST_Weapon_C_7:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.03:136][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994cc7a40, Size=16
+[2018.06.13-13.36.03:136][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994389990, Size=16, Default__Arena_C Function /Engine/Transient.REINST_Arena_C_10:ExecuteUbergraph_Arena
+[2018.06.13-13.36.03:136][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e980bcd180, Size=352
+[2018.06.13-13.36.03:136][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9944d7b80, Size=352, Default__ArenaCharacter_C Function /Engine/Transient.REINST_ArenaCharacter_C_11:ExecuteUbergraph_ArenaCharacter
+[2018.06.13-13.36.03:137][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994d8ca88, Size=8
+[2018.06.13-13.36.03:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9943db180, Size=8, Default__ArenaPlayerController_C Function /Engine/Transient.REINST_ArenaPlayerController_C_12:ExecuteUbergraph_ArenaPlayerController
+[2018.06.13-13.36.03:205][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9950a6aa0, Size=20, Default__MultiplayerCamera_C Function /Game/ThirdPersonBP/Blueprints/CameraBP/MultiplayerCamera.MultiplayerCamera_C:ExecuteUbergraph_MultiplayerCamera
+[2018.06.13-13.36.03:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9950596e0, Size=216, Default__Projectile_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Projectile.Projectile_C:ExecuteUbergraph_Projectile
+[2018.06.13-13.36.03:207][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994fdb600, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.13-13.36.03:207][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e99508e910, Size=16, Default__Weapon_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.03:210][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e99508e240, Size=16, Default__W_BurstRifle_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.36.03:212][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e99508e430, Size=16, Default__Arena_C Function /Game/ThirdPersonBP/Blueprints/GameModes/Arena.Arena_C:ExecuteUbergraph_Arena
+[2018.06.13-13.36.03:214][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994f8df00, Size=352, Default__ArenaCharacter_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/ArenaCharacter.ArenaCharacter_C:ExecuteUbergraph_ArenaCharacter
+[2018.06.13-13.36.03:216][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9943d8948, Size=8, Default__ArenaPlayerController_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Controllers/ArenaPlayerController.ArenaPlayerController_C:ExecuteUbergraph_ArenaPlayerController
+[2018.06.13-13.36.03:431][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994f36980, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.13-13.36.03:432][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994f36980, Size=32
+[2018.06.13-13.36.03:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994f36980, Size=32, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_22:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.13-13.36.03:433][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e994f375e0, Size=32, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.06.13-13.36.03:798][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [30.502192ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.13-13.36.04:314][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-13.36.04:365][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e99445b640, Size=20
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994389990, Size=16
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e9943cd740, Size=64
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e9944d7b80, Size=352
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e9944b7820, Size=216
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994389aa0, Size=16
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e9943db180, Size=8
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994389a50, Size=16
+[2018.06.13-13.36.04:381][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002e994f36980, Size=32
+[2018.06.13-13.36.04:383][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.13-13.36.04:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.468ms to complete.
+[2018.06.13-13.36.04:480][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.575
+[2018.06.13-13.36.04:914][  0]LogCollectionManager: Loaded 0 collections in 0.001560 seconds
+[2018.06.13-13.36.05:007][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/Project_Assemble/Project_Assemble/Saved/Collections/' took 0.01s
+[2018.06.13-13.36.05:007][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/Project_Assemble/Project_Assemble/Content/Developers/Andrew/Collections/' took 0.01s
+[2018.06.13-13.36.05:007][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/Project_Assemble/Project_Assemble/Content/Collections/' took 0.01s
+[2018.06.13-13.36.05:007][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.13-13.36.05:018][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2452 classes and 558 folders.
+[2018.06.13-13.36.05:050][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.13-13.36.05:857][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.13-13.36.05:914][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.13-13.36.06:263][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.13-13.36.06:265][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.13-13.36.06:311][  0]LogSlate: Took 0.013552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.13-13.36.06:602][  0]LogRenderer: Reallocating scene render targets to support 936x404 Format 10 NumSamples 1 (Frame:1).
+[2018.06.13-13.36.06:906][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.13-13.36.06:906][  0]LogLoad: (Engine Initialization) Total time: 19.65 seconds
+[2018.06.13-13.36.06:906][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.13-13.36.06:924][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.13-13.36.06:953][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.13-13.36.07:087][  0]LogSlate: Took 0.024570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.13-13.36.07:190][  1]LogAssetRegistry: Asset discovery search completed in 11.9710 seconds
+[2018.06.13-13.36.07:192][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.13-13.36.07:192][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.06.13-13.36.08:000][ 20]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.13-13.36.11:056][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-13.36.12:591][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-13.36.13:578][161]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.06.13-13.36.14:003][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9a5329d10, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.13-13.36.14:003][161]LogUObjectGlobals: Created PersistentFrame Addr=0x000002e9a5329d08, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.13-13.36.14:933][161]LogSlate: Took 0.009894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.13-13.36.17:597][200]LogSlate: Took 0.007950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.13-13.45.05:112][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.06:513][768]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.08:649][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.15:002][804]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.16:058][808]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.17:614][812]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.19:146][816]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.20:177][818]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.20:730][820]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.22:270][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.33:113][856]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.35:669][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.39:253][873]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.40:329][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.41:863][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.43:397][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.47:487][895]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.49:020][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.54:240][915]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.58:329][925]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.45.59:864][929]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.07:021][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.11:114][960]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.12:647][964]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.13:674][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.16:740][975]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.17:768][977]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.21:390][987]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.24:460][996]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.27:066][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.29:115][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.32:692][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.38:402][ 36]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.39:957][ 40]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.41:489][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.45:579][ 54]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.47:112][ 59]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.51:207][ 70]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.52:740][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.53:768][ 76]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.54:321][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.57:395][ 87]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.58:928][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.46.59:954][ 94]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.01:487][ 97]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.03:533][103]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.05:066][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.09:158][117]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.14:783][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.17:343][139]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.18:878][143]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.20:412][147]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.22:456][153]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.23:988][157]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.26:551][164]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.28:082][168]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.29:615][172]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.30:642][175]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.32:171][178]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.33:702][182]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.34:224][184]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.34:761][186]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.38:924][198]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.44:033][212]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.45:062][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.48:130][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.49:159][225]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.49:712][227]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.51:247][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.47.56:877][246]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.00:456][256]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.03:017][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.09:159][280]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.14:780][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.16:834][302]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.21:463][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.23:020][319]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.24:552][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.29:158][334]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.30:686][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.31:210][340]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.31:746][342]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.33:300][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.37:391][356]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.38:927][360]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.40:972][366]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.44:551][375]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.46:598][381]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.50:684][391]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.52:217][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.52:738][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.58:408][413]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.48.59:942][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.00:969][419]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.02:498][423]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.04:082][428]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.08:172][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.13:300][453]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.14:361][457]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.15:392][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.17:443][465]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.17:996][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.21:579][476]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.25:156][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.27:208][492]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.30:782][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.32:834][507]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.35:393][513]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.36:926][517]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.42:551][533]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.46:642][543]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.52:785][560]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.53:337][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.54:877][566]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.49.59:987][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.04:595][592]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.06:127][596]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.07:154][599]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.11:299][611]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.12:830][615]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.14:366][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.15:392][621]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.16:918][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.25:153][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.28:735][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.30:268][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.31:295][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.34:874][674]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.41:100][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.41:653][694]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.44:209][701]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.45:232][704]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.47:285][709]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.47:838][711]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.52:955][725]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.50.53:980][728]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.01:658][749]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.04:724][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.05:751][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.07:283][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.10:349][772]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.11:375][774]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.14:443][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.16:997][790]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.20:576][799]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.22:629][805]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.23:183][807]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.25:231][812]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.26:768][816]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.32:395][831]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.34:442][837]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.35:972][841]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.38:011][847]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.38:536][848]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.39:090][850]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.41:135][855]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.42:161][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.43:186][861]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.44:720][864]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.50:346][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.50:864][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.56:079][897]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.57:607][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.58:128][903]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.51.59:655][906]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.01:708][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.07:379][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.09:425][934]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.10:956][938]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.11:474][939]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.13:004][943]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.15:555][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.18:115][957]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.19:141][960]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.20:672][963]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.23:228][970]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.24:256][973]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.25:283][976]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.26:812][979]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.30:395][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.31:927][993]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.33:972][999]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.39:140][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.41:193][ 20]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.41:748][ 22]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.43:285][ 26]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.45:842][ 33]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.48:909][ 42]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.49:427][ 43]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.49:988][ 45]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.50:543][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.52:074][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.52.59:753][ 72]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.00:306][ 74]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.03:895][ 84]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.07:471][ 94]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.08:526][ 98]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.10:080][102]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.10:598][103]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.12:126][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.15:250][116]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.16:777][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.17:300][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.18:828][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.20:880][131]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.22:409][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.22:927][136]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.23:479][138]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.53.25:011][142]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.13-13.55.10:460][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea047560a0, Size=4, Default__SKEL_Weapon_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.SKEL_Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.55.10:461][454]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea047572c8, Size=4, Default__SKEL_W_BurstRifle_C Function /Game/ThirdPersonBP/Blueprints/PlayerBP/Weapon.SKEL_Weapon_C:ExecuteUbergraph_Weapon
+[2018.06.13-13.55.18:568][640]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.06.13-13.55.18:568][640]LogWindows: Windows GetLastError: The operation completed successfully. (0)
